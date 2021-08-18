@@ -3,6 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Courgette&family=Style+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .nav-bar{
     
     display:flex;
@@ -22,7 +28,7 @@
 }
 
 .img{
-   width:1147px;
+   width:100%;
    height:400px;
    background-color: (255,255,0,0.6);
    border-bottom: 2px solid black;

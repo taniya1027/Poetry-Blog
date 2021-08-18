@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+
+body{
+    margin:0;
+    padding:0;
+}
+
+img{
+    border-radius: 50%;
+    width: 20%;
+    margin:auto;
+    display:flex;
+}
+
+.container{
+    height: 80%;
+    width: 70%;
+    border: solid black 2px;
+    margin: -5%;
+    margin-left: 180px;
+    padding: 5%;
+    background-color: rgb(133, 127, 127);
+    color: white;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
