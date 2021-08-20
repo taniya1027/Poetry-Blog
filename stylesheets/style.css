@@ -98,13 +98,14 @@ body{
 }
 
 .footer-para{
-    margin-left:50%;
+    display: flex;
     padding-top: 30px;
+    justify-content: center;
+   
 }
 
 .footer-bar{
-    margin-top:30px;
-    display:flex;
-    justify-content:middle;
-    margin-left: 50%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
 }
