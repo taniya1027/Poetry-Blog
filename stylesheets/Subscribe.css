@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding : 0;
+    background-color : yellow;
+}
+
+form {
+    size : 60%;
+    margin: 80px 80px 25px 35px;
+}
